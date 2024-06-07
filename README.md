@@ -29,5 +29,5 @@ In this code along I updated the provided starter files using HTML, CSS, Bootstr
 2. Download or clone the repository onto your  machine.
 3. Extract the .zip file.
 4. Open .html file in your browser.
-5. Alternatively you can click on the following  [Site](https://shikha954.github.io/Simon-Game/) Link to view.
+5. Alternatively you can click on the following  [Site]() Link to view.
 
